@@ -44,3 +44,6 @@ dist/
 !.gitkeep
 !checkpoints/**/.gitkeep
 !data/**/.gitkeep
+
+# Overleaf paper repo (separate git repo, cloned in place)
+paper/
